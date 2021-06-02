@@ -1,2 +1,3 @@
 # CMPE255_Project
 installation of keras, sklearn, numpy, and pandas is required...
+Final_Evaluation_Project is the entry point for this project and is what is considered the final product
